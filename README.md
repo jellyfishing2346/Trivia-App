@@ -1,6 +1,6 @@
 🎯 Goals
 
-(Download the starter project here)[https://github.com/codepath/ios101-project3-trivia-starter]. 
+[Download the starter project here](https://github.com/codepath/ios101-project3-trivia-starter). 
 By the end of this assignment, you will be able to reinforce the following concepts from lab:
 
  [✓]   Creating the user interface (UI) of your app using Storyboard and Interface Builder
